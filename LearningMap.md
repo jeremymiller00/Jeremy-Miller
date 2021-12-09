@@ -1,5 +1,10 @@
 # Learning Map
 
+## Competencies
+* Machine Learning
+* Software Engineering
+* Product Management
+
 ## Done
 
 |Item|Competency|Type|Is_Repeating|Is_DS_Gold|Date_Started|Date_Finished|Status|Notes|Links|
