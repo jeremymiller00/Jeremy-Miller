@@ -1,0 +1,10 @@
+theme: jekyll-theme-slate
+permalink: pretty
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+  - LearningMap.md
