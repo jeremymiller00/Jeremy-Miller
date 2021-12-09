@@ -1,4 +1,6 @@
 theme: jekyll-theme-slate
+title: Jeremy Miller
+description: Data Scientist
 permalink: pretty
 plugins:
   - jekyll-relative-links
