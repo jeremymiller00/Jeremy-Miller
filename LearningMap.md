@@ -7,48 +7,48 @@
 
 ## Done
 
-|Item|Competency|Type|Is_Repeating|Is_DS_Gold|Date_Started|Date_Finished|Status|Notes|Links|
-|-|-|-|-|-|-|-|-|-|-|
-|CS50x|Software Engineering|Course|0|0|2021-09-01|2021-11-05|Done|Great course; even though there was many things I already knew the framing and filling of gaps was valuable||
-|A Huge Value Add for Data Scientists|Product Management|Article|0|1|2021-11-01|2021-11-01|Done|Great article about product mindset for data science|https://ericdataproduct.substack.com/p/a-huge-value-add-for-data-scientists|
-|20 Things Ive Learned in My 20 Years as a Software Engineer|Software Engineering|Article|0|1|2021-10-19|2021-10-19|Done|Excellent article full of wisdom|https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer|
-|A Gentle Introduction to ML Ops|Machine Learning|Article|0|1|2021-09-30|2021-09-30|Done|Great clear article for ML Ops basics|https://towardsdatascience.com/a-gentle-introduction-to-mlops-7d64a3e890ff|
-|Teach Yourself Programming in 10 Years|Software Engineering|Article|0|1|2021-09-01|2021-09-01|Done|Great article for building perspective|https://norvig.com/21-days.html|
-|Computer Science Distilled|Software Engineering|Book|0|0|2021-06-01|2021-08-01|Done|Great book for viewing core computer science topics through a slightly different lens||
-|Machine Learning Engineering|Software Engineering|Book|0|0|2021-03-25|2021-07-12|Done|By Andriy Burkov||
-|Computer Science Distilled|Software Engineering|Book|0|0|2021-03-03|2021-05-25|Done|Clear concise book for core computer science topics||
-|Java Spring Boot Master Class|Software Engineering|Course|0|0|2021-02-11|2021-05-05|Done||Udemy|
-|The Signal and the Noise|Machine Learning|Book|0|1|2021-02-03|2021-04-22|Done|By Nate Silver Excellent book though opinionated at times||
-|Machine Learning for Social Impact|Product Management|Article|0|1|2021-01-03|2021-01-03|Done|Great article for framing uses of machine learning|https://www.drivendata.co/blog/intro-to-machine-learning-social-impact|
-|Spring Master Class|Software Engineering|Course|0|0|2020-09-05|2020-11-07|Done|Good course|Udemy Learn Programming|
-|Competing in the Age of AI|Product Management|Book|0|0|2021-09-28|2020-10-30|Done|By Iansiti and Lakhani Good book but somewhat repetitive||
-|Amigoscode Springboot Intro Course|Software Engineering|Course|0|0|2020-07-12|2020-08-10|Done|Good course||
-|Spark: The Definitive Guide|Machine Learning|Book|0|0|2019-12-06|2020-07-24|Done|Great book essential Spark reference||
-|Python for Data Structures and Algorithms|Software Engineering|Tutorial|0|0|2020-06-05|2021-02-11|Done||Udemy|
-|Deeplearning.AI NLP Specialization|Machine Learning|Course|0|0|2019-11-14|2020-05-30|Done|Good courses but toy probems|Coursera|
-|Elements of Statistical Learning|Machine Learning|Book|0|1|2019-11-19|2020-07-09|Done|Excellent book||
-|Automating Inequality|Machine Learning|Book|0|0|2019-09-27|2019-11-15|Done|By Virginia Eubanks Good book||
-|Think Stats|Machine Learning|Book|0|0|2019-07-03|2019-09-27|Done|Allen Downy Good book for basic stats||
-|Learning Scala|Software Engineering|Book|0|0|2019-4-22|2019-09-25|Done|||
-|Everybody Lies|Machine Learning|Book|0|1|2019-07-08|2019-09-22|Done|By Seth Stevens-Davidowitz Excellent book||
-|Doing Data Science|Machine Learning|Book|0|0|2019-04-04|2019-06-13|Done|Great beginner book||
-|Weapons of Math Destruction|Machine Learning|Book|0|1|2019-06-11|2019-07-07|Done|By Cathy O'Neill Excellent book||
-|Introduction to Statistical Learning|Machine Learning|Book|0|1|2018-05-21|2019-03-01|Done|Excellent book||
+|Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
+|-|-|-|-|-|-|-|-|-|
+|CS50x|Software Engineering|Course||2021-09-01|2021-11-05|Done|Great course; even though there was many things I already knew the framing and filling of gaps was valuable||
+|A Huge Value Add for Data Scientists|Product Management|Article|:sparkles:|2021-11-01|2021-11-01|Done|Great article about product mindset for data science|https://ericdataproduct.substack.com/p/a-huge-value-add-for-data-scientists|
+|20 Things Ive Learned in My 20 Years as a Software Engineer|Software Engineering|Article|:sparkles:|2021-10-19|2021-10-19|Done|Excellent article full of wisdom|https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer|
+|A Gentle Introduction to ML Ops|Machine Learning|Article|:sparkles:|2021-09-30|2021-09-30|Done|Great clear article for ML Ops basics|https://towardsdatascience.com/a-gentle-introduction-to-mlops-7d64a3e890ff|
+|Teach Yourself Programming in 10 Years|Software Engineering|Article|:sparkles:|2021-09-01|2021-09-01|Done|Great article for building perspective|https://norvig.com/21-days.html|
+|Computer Science Distilled|Software Engineering|Book||2021-06-01|2021-08-01|Done|Great book for viewing core computer science topics through a slightly different lens||
+|Machine Learning Engineering|Software Engineering|Book||2021-03-25|2021-07-12|Done|By Andriy Burkov||
+|Computer Science Distilled|Software Engineering|Book||2021-03-03|2021-05-25|Done|Clear concise book for core computer science topics||
+|Java Spring Boot Master Class|Software Engineering|Course||2021-02-11|2021-05-05|Done||Udemy|
+|The Signal and the Noise|Machine Learning|Book|:sparkles:|2021-02-03|2021-04-22|Done|By Nate Silver Excellent book though opinionated at times||
+|Machine Learning for Social Impact|Product Management|Article|:sparkles:|2021-01-03|2021-01-03|Done|Great article for framing uses of machine learning|https://www.drivendata.co/blog/intro-to-machine-learning-social-impact|
+|Spring Master Class|Software Engineering|Course||2020-09-05|2020-11-07|Done|Good course|Udemy Learn Programming|
+|Competing in the Age of AI|Product Management|Book||2021-09-28|2020-10-30|Done|By Iansiti and Lakhani Good book but somewhat repetitive||
+|Amigoscode Springboot Intro Course|Software Engineering|Course||2020-07-12|2020-08-10|Done|Good course||
+|Spark: The Definitive Guide|Machine Learning|Book||2019-12-06|2020-07-24|Done|Great book essential Spark reference||
+|Python for Data Structures and Algorithms|Software Engineering|Tutorial||2020-06-05|2021-02-11|Done||Udemy|
+|Deeplearning.AI NLP Specialization|Machine Learning|Course||2019-11-14|2020-05-30|Done|Good courses but toy probems|Coursera|
+|Elements of Statistical Learning|Machine Learning|Book|:sparkles:|2019-11-19|2020-07-09|Done|Excellent book||
+|Automating Inequality|Machine Learning|Book||2019-09-27|2019-11-15|Done|By Virginia Eubanks Good book||
+|Think Stats|Machine Learning|Book||2019-07-03|2019-09-27|Done|Allen Downy Good book for basic stats||
+|Learning Scala|Software Engineering|Book||2019-4-22|2019-09-25|Done|||
+|Everybody Lies|Machine Learning|Book|:sparkles:|2019-07-08|2019-09-22|Done|By Seth Stevens-Davidowitz Excellent book||
+|Doing Data Science|Machine Learning|Book||2019-04-04|2019-06-13|Done|Great beginner book||
+|Weapons of Math Destruction|Machine Learning|Book|:sparkles:|2019-06-11|2019-07-07|Done|By Cathy O'Neill Excellent book||
+|Introduction to Statistical Learning|Machine Learning|Book|:sparkles:|2018-05-21|2019-03-01|Done|Excellent book||
 
 ## In Progress
 
-|Item|Competency|Type|Is_Repeating|Is_DS_Gold|Date_Started|Date_Finished|Status|Notes|Links|
-|-|-|-|-|-|-|-|-|-|-|
-|Inspired: How to Create Tech Products that Customers Love|Product Management|Book|0|1|2021-11-20||In_Progress|||
-|Tidy Tuesday|Machine Learning|Tutorial|Machine Learning|0|2021-12-01||In_Progress|Designed to accompany the book R for Data Science|https://github.com/rfordatascience/tidytuesday|
-|AWS Solutions Architect|Software Engineering|Course|0|0|2020-06-01||In_Progress|Long course|Udemy|
+|Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
+|-|-|-|-|-|-|-|-|-|
+|Inspired: How to Create Tech Products that Customers Love|Product Management|Book|:sparkles:|2021-11-20||In_Progress|||
+|Tidy Tuesday|Machine Learning|Tutorial|0|2021-12-01||In_Progress|Designed to accompany the book R for Data Science|https://github.com/rfordatascience/tidytuesday|
+|AWS Solutions Architect|Software Engineering|Course|0|2020-06-01||In_Progress|Long course|Udemy|
 
 ## To Do
 
-|Item|Competency|Type|Is_Repeating|Is_DS_Gold|Date_Started|Date_Finished|Status|Notes|Links|
-|-|-|-|-|-|-|-|-|-|-|
-|Transformers From Scratch|Machine Learning|Tutorial|0|0|||To_Do||https://e2eml.school/transformers.html|
-|Pragmatic Programmer|Software Engineering|Book|0|0|||To_Do|Classic Software Engineering Text||
-|Bayesian Methods for Hackers|Machine Learning|Tutorial|0|0|||On_Hold|Github||
-|Huggingface Course|Machine Learning|Course|0|0||||Github|https://huggingface.co/course/chapter1|
+|Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
+|-|-|-|-|-|-|-|-|-|
+|Transformers From Scratch|Machine Learning|Tutorial||||To_Do||https://e2eml.school/transformers.html|
+|Pragmatic Programmer|Software Engineering|Book||||To_Do|Classic Software Engineering Text||
+|Bayesian Methods for Hackers|Machine Learning|Tutorial||||On_Hold|Github||
+|Huggingface Course|Machine Learning|Course|||||Github|https://huggingface.co/course/chapter1|
 
