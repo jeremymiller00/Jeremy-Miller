@@ -49,6 +49,7 @@
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
 |Transformers From Scratch|Machine Learning|Tutorial||||To_Do||https://e2eml.school/transformers.html|
+|Neo4j Tutorial|Machine Learning|Tutorial||||To_Do||https://neo4j.com/developer/get-started/|
 |Pragmatic Programmer|Software Engineering|Book||||To_Do|Classic Software Engineering Text||
 |Bayesian Methods for Hackers|Machine Learning|Tutorial||||On_Hold|Github||
 |Huggingface Course|Machine Learning|Course|||||Github|https://huggingface.co/course/chapter1|
