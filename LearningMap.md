@@ -41,8 +41,8 @@
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
 |Inspired: How to Create Tech Products that Customers Love|Product Management|Book|:sparkles:|2021-11-20||In_Progress|||
-|Tidy Tuesday|Machine Learning|Tutorial|0|2021-12-01||In_Progress|Designed to accompany the book R for Data Science|https://github.com/rfordatascience/tidytuesday|
-|AWS Solutions Architect|Software Engineering|Course|0|2020-06-01||In_Progress|Long course|Udemy|
+|Tidy Tuesday|Machine Learning|Tutorial||2021-12-01||In_Progress|Designed to accompany the book R for Data Science|https://github.com/rfordatascience/tidytuesday|
+|AWS Solutions Architect|Software Engineering|Course||2020-06-01||In_Progress|Long course|Udemy|
 
 ## To Do
 
