@@ -40,17 +40,18 @@
 
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
-|Inspired: How to Create Tech Products that Customers Love|Product Management|Book|:sparkles:|2021-11-20||In_Progress|||
-|Tidy Tuesday|Machine Learning|Tutorial||2021-12-01||In_Progress|Designed to accompany the book R for Data Science|https://github.com/rfordatascience/tidytuesday|
-|AWS Solutions Architect|Software Engineering|Course||2020-06-01||In_Progress|Long course|Udemy|
+|Inspired: How to Create Tech Products that Customers Love|Product Management|Book|:sparkles:|2021-11-20||In Progress|||
+|Tidy Tuesday|Machine Learning|Tutorial||2021-12-01||In Progress|Designed to accompany the book R for Data Science|https://github.com/rfordatascience/tidytuesday|
+|AWS Solutions Architect|Software Engineering|Course||2020-06-01||In Progress|Long course|Udemy|
 
 ## To Do
 
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
-|Transformers From Scratch|Machine Learning|Tutorial||||To_Do||https://e2eml.school/transformers.html|
-|Neo4j Tutorial|Machine Learning|Tutorial||||To_Do||https://neo4j.com/developer/get-started/|
-|Pragmatic Programmer|Software Engineering|Book||||To_Do|Classic Software Engineering Text||
-|Bayesian Methods for Hackers|Machine Learning|Tutorial||||On_Hold|Github||
-|Huggingface Course|Machine Learning|Course|||||Github|https://huggingface.co/course/chapter1|
+|Transformers From Scratch|Machine Learning|Tutorial||||To Do||https://e2eml.school/transformers.html|
+|Neo4j Tutorial|Machine Learning|Tutorial||||To Do||https://neo4j.com/developer/get-started/|
+|Pragmatic Programmer|Software Engineering|Book||||To Do|Classic Software Engineering Text||
+|Bayesian Methods for Hackers|Machine Learning|Tutorial||||On Hold|Github||
+|Huggingface Course|Machine Learning|Course||||To Do|Github|https://huggingface.co/course/chapter1|
+|Streamlit Cloud|Machine Learning|Tutorial||||To Do|Free hosting of streamlit apps|https://streamlit.io/cloud|
 
