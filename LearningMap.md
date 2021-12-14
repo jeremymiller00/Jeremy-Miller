@@ -55,4 +55,4 @@
 |Bayesian Methods for Hackers|Machine Learning|Tutorial||||On Hold|Github||
 |Huggingface Course|Machine Learning|Course||||To Do|Github|https://huggingface.co/course/chapter1|
 |The Art of Data Analysis|Machine Learning|Book||||To Do|Book by Peng and Matsui|https://bookdown.org/rdpeng/artofdatascience/|
-
+|Using Jira for Product Management|Product Management|Course||||To Do|Though My Learning||
