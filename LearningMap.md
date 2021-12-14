@@ -10,6 +10,7 @@
 
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
+|Streamlit Cloud|Machine Learning|Tutorial||||To Do|Free hosting of streamlit apps|https://streamlit.io/cloud|
 |CS50x|Software Engineering|Course||2021-09-01|2021-11-05|Done|Great course; even though there was many things I already knew the framing and filling of gaps was valuable||
 |A Huge Value Add for Data Scientists|Product Management|Article|:sparkles:|2021-11-01|2021-11-01|Done|Great article about product mindset for data science|https://ericdataproduct.substack.com/p/a-huge-value-add-for-data-scientists|
 |20 Things Ive Learned in My 20 Years as a Software Engineer|Software Engineering|Article|:sparkles:|2021-10-19|2021-10-19|Done|Excellent article full of wisdom|https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer|
@@ -53,5 +54,5 @@
 |Pragmatic Programmer|Software Engineering|Book||||To Do|Classic Software Engineering Text||
 |Bayesian Methods for Hackers|Machine Learning|Tutorial||||On Hold|Github||
 |Huggingface Course|Machine Learning|Course||||To Do|Github|https://huggingface.co/course/chapter1|
-|Streamlit Cloud|Machine Learning|Tutorial||||To Do|Free hosting of streamlit apps|https://streamlit.io/cloud|
+|The Art of Data Analysis|Machine Learning|Book||||To Do|Book by Peng and Matsui|https://bookdown.org/rdpeng/artofdatascience/|
 
