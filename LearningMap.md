@@ -41,7 +41,8 @@
 
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
-|Inspired: How to Create Tech Products that Customers Love|Product Management|Book|:sparkles:|2021-11-20||In Progress|||
+|Inspired: How to Create Tech Products that Customers Love|Product Management|Book|:sparkles:|2021-11-20||In Progress|Book by Marty Cagan||
+|Prediction Machines|Product Management|Book||2021-12-13||In Progress|Book by Agrawal, Gans, and Goldfarb||
 |Tidy Tuesday|Machine Learning|Tutorial||2021-12-01||In Progress|Designed to accompany the book R for Data Science|https://github.com/rfordatascience/tidytuesday|
 |AWS Solutions Architect|Software Engineering|Course||2020-06-01||In Progress|Long course|Udemy|
 
