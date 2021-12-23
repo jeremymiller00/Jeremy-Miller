@@ -50,6 +50,7 @@
 
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
+|Graph Algorithms: Practical Examples in Apache Spark and Neo4j|Machine Learning|Book||||To Do||https://go.neo4j.com/rs/710-RRC-335/images/Neo4j_Graph_Algorithms.pdf|
 |Using Jira for Product Management|Product Management|Course||||To Do|Though My Learning||
 |Transformers From Scratch|Machine Learning|Tutorial||||To Do||https://e2eml.school/transformers.html|
 |Neo4j Tutorial|Machine Learning|Tutorial||||To Do||https://neo4j.com/developer/get-started/|
