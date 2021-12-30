@@ -25,7 +25,7 @@ Here's my [resume](Jeremy_Miller_Resume.pdf).
 * Delivered production Java 8 library with full test coverage.
 * Modified a common unsupervised keyword extraction algorithm to meet specific requirements.
 * Leveraged part-of-speech tagging and sentence structure.
-* Impact: ~$150k annually saved by termination of existing software contract.
+* Impact: ~$96k annually saved by termination of existing software contract.
 
 ### Deep learning model for ~15,000 class Natural Language classfication problem. Helps researchers find appropriate journals for their work.
 * Updated, retrained, and delivered a Deep Learning model with Tensorflow, improving recall@10 by 15%.
@@ -49,7 +49,7 @@ Here's my [resume](Jeremy_Miller_Resume.pdf).
 * Worked with product manager to solicit efficient creation of labeled data set.
 * Trained logistic regression model in Python to predict match between publisher and company records; accuracy 99%.
 * Wrote and tested basic REST endpoint to provide on-demand predictions.
-* * ~%50k annual revenue made possible.
+* ~%100k annual revenue enabled.
 
 ### Gradient Boosted Tree model for metadata classification. Finds relevant researchers for email marketing product.
 * Projected to decrease product delivery time by at least 50% for product with ~6mil annual revenue.
