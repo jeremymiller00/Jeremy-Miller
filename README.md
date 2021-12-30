@@ -17,7 +17,7 @@ Here's my [resume](Jeremy_Miller_Resume.pdf).
 * Precision = 0.92 on test dataset.
 * Worked with engineering and product teams to ensure technical and customer requirements were met.
 * Collaborated with product team to implement plan for ongoing data collection and model enhancement.
-* Impact: Support new product going to production.
+* Impact: Must-have feature for new product going to production aimed at increasing customer retention.
 
 ### Custom Java Library for Bespoke Term Extraction Use Case from Patent Document Database.
 * Worked with team members to define requirements and test cases.
