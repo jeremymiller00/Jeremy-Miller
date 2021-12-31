@@ -1,8 +1,8 @@
 # ProjectList
 An up-to-date list of data science projects with basic description.  
 Here's my [learning map](LearningMap.md), a page showing my continuing education items.  
-Here's my [resume](Jeremy_Miller_Resume.pdf).
-Here's some of my [writing](posts/toc.md)
+Here's my [resume](Jeremy_Miller_Resume.pdf).  
+Here's some of my [writing](posts/toc.md).
 
 ## Project Currently in Production / Completed
 ### Gradient Boosted Tree Model for Scholarly Reference Matching
