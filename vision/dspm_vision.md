@@ -16,6 +16,9 @@
 * Aim for 2/3 deep work hours, 1/3 shallow work hours
 * Write two times per week, with the aim of 40 blog posts for the year
 * Productive meditation two times per week
+* Fill in missing Computer Science education
+ * Create plan
+ * Allocate time
 * Implement full Newport system:
  * Full Capture
  * Time Block Planning
