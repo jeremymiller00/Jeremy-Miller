@@ -1,5 +1,5 @@
 # Learning Map
-[Home](README.md)
+[Project List](README.md)
 
 ## Competencies
 * Machine Learning

@@ -1,6 +1,8 @@
 # Conferences are back (?)! - The Open Data Science Conference in San Francisco
 [Table of Contents](toc.md)  
 
+[Project List](../README.md)
+
 1 December 2021
 
 I was fortunate to attend the Open Data Science ([ODSC](https://odsc.com/california/)) conference recently ago in San Francisco, CA, USA. ODSC hosts four conferences globally (or virtually) each year. Their goal is to “bring together the global data science community in an effort to encourage the exchange of innovative ideas and the growth of open source software”.
