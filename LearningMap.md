@@ -44,7 +44,7 @@
 
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
-|Tidy Tuesday|Machine Learning|Tutorial||2021-12-01||In Progress|Designed to accompany the book R for Data Science|https://github.com/rfordatascience/tidytuesday|
+|Learning Map CLI|Software Engineering|Project||2021-12-23||In Progress|Based on a Real Python tutorial, adapted to my learning map|https://github.com/jeremymiller00/learningmap-cli|
 
 ## To Do
 
