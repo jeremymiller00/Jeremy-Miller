@@ -1,4 +1,5 @@
 # Conferences are back (?)! - The Open Data Science Conference in San Francisco
+[Table of Contents](toc.md)  
 
 1 December 2021
 
