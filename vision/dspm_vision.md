@@ -17,13 +17,13 @@
 * Write two times per week, with the aim of 40 blog posts for the year
 * Productive meditation two times per week
 * Fill in missing Computer Science education
- * Create plan
- * Allocate time
+  * Create plan
+  * Allocate time
 * Implement full Newport system:
- * Full Capture
- * Time Block Planning
- * Prioritization
- * Semi-annual goals
- * Weekly goals
- * Automate and Eliminate
- * Swing Big
+  * Full Capture
+  * Time Block Planning
+  * Prioritization
+  * Semi-annual goals
+  * Weekly goals
+  * Automate and Eliminate
+  * Swing Big
