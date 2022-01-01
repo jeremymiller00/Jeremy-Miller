@@ -6,6 +6,10 @@
 * Software Engineering
 * Product Management
 
+## North Stars
+* https://norvig.com/21-days.html
+* https://teachyourselfcs.com/#programming
+
 ## Done
 
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
@@ -45,6 +49,8 @@
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
 |Learning Map CLI|Software Engineering|Project||2021-12-23||In Progress|Based on a Real Python tutorial, adapted to my learning map|https://github.com/jeremymiller00/learningmap-cli|
+|Structure and Interpretation of Computer Programs|Software Engineering|Book||2021-12-28||In Progress|Canonical text|https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html|
+|R For Data Science|Machine Learning|Book||2021-12-31||In Progress|Want to Learn R|https://r4ds.had.co.nz/index.html|
 
 ## To Do
 
