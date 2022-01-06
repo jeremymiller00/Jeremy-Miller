@@ -11,3 +11,6 @@ relative_links:
 include:
   - README.md
   - LearningMap.md
+  - posts/toc.md
+  - posts/odscwest2021.md
+  - posts/inspired.md
