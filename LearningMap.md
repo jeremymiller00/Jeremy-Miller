@@ -50,7 +50,6 @@
 |-|-|-|-|-|-|-|-|-|
 |Learning Map CLI|Software Engineering|Project||2021-12-23||In Progress|Based on a Real Python tutorial, adapted to my learning map|https://github.com/jeremymiller00/learningmap-cli|
 |Structure and Interpretation of Computer Programs|Software Engineering|Book||2021-12-28||In Progress|Canonical text|https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html|
-|R For Data Science|Machine Learning|Book||2021-12-31||In Progress|Want to Learn R|https://r4ds.had.co.nz/index.html|
 
 ## To Do
 
@@ -58,6 +57,7 @@
 |-|-|-|-|-|-|-|-|-|
 |Graph Algorithms: Practical Examples in Apache Spark and Neo4j|Machine Learning|Book||||To Do||https://go.neo4j.com/rs/710-RRC-335/images/Neo4j_Graph_Algorithms.pdf|
 |High Performance Python|Machine Learning|Book||||To Do|||
+|R For Data Science|Machine Learning|Book||2021-12-31||To Do|Want to Learn R|https://r4ds.had.co.nz/index.html|
 |Using Jira for Product Management|Product Management|Course||||To Do|Though My Learning||
 |Transformers From Scratch|Machine Learning|Tutorial||||To Do||https://e2eml.school/transformers.html|
 |Neo4j Tutorial|Machine Learning|Tutorial||||To Do||https://neo4j.com/developer/get-started/|
