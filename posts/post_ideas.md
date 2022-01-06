@@ -3,3 +3,4 @@
 * Full Newport
 * R
 * 20yrs as a software engineer
+* SICP chapter review
