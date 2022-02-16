@@ -9,6 +9,7 @@
 ## North Stars
 * https://norvig.com/21-days.html
 * https://teachyourselfcs.com/#programming
+* https://hastie.su.domains/ElemStatLearn/
 
 ## Done
 
