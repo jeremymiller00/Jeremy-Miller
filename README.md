@@ -4,7 +4,19 @@ Here's my [learning map](LearningMap.md), a page showing my continuing education
 Here's my [resume](Jeremy_Miller_Resume.pdf).  
 Here's some of my [writing](posts/toc.md).
 
-## Project Currently in Production / Completed
+## Product Manager, Data Science
+### Restructure Steering Group to Meet Business Needs
+
+### Develop Vision for Data Science as a Set of Shared Services
+
+### Build Out ProQuest Backlog
+
+### Institute Framework Product Level Metrics for New Projects
+
+### Grow Data Science Internship from Single Case to Ongoing Program
+
+
+## Machine Learning Project Currently in Production / Completed
 ### Gradient Boosted Tree Model for Scholarly Reference Matching
 * Given a reference from a scholarly journal article, match it to its source in a database.
 * XGBoost model with Bayesian hyperparameter optimization.
