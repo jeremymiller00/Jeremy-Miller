@@ -7,6 +7,7 @@
 * Product Management
 
 ## North Stars
+* https://svpg.com/inspired-how-to-create-products-customers-love/
 * https://norvig.com/21-days.html
 * https://teachyourselfcs.com/#programming
 * https://hastie.su.domains/ElemStatLearn/
@@ -51,13 +52,14 @@
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
 |Outcomes Over Output|Product Management|Book||2022-03-20||In Progress|Canonical product text|https://www.senseandrespondpress.com/managing-outcomes|
-|Composing Programs|Software Engineering|Book||2021-12-28||In Progress|Canonical text|https://composingprograms.com/|
 
 ## To Do
 
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
 |Using Jira for Product Management|Product Management|Course||||To Do|Though My Learning||
+|The Build Trap|Product Management|Book||||To Do|Canonical product text|https://melissaperri.com/book|
+|Composing Programs|Software Engineering|Book||2021-12-28||In Progress|Canonical text|https://composingprograms.com/|
 |Graph Algorithms: Practical Examples in Apache Spark and Neo4j|Machine Learning|Book||||To Do||https://go.neo4j.com/rs/710-RRC-335/images/Neo4j_Graph_Algorithms.pdf|
 |High Performance Python|Machine Learning|Book||||To Do|||
 |R For Data Science|Machine Learning|Book||2021-12-31||To Do|Want to Learn R|https://r4ds.had.co.nz/index.html|
