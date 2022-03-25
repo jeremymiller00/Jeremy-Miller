@@ -50,6 +50,7 @@
 
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
+|Outcomes Over Output|Product Management|Book||2022-03-20||In Progress|Canonical product text|https://www.senseandrespondpress.com/managing-outcomes|
 |Composing Programs|Software Engineering|Book||2021-12-28||In Progress|Canonical text|https://composingprograms.com/|
 
 ## To Do
