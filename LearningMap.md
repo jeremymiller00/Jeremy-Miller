@@ -16,11 +16,13 @@
 
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
-|Learning Map CLI|Software Engineering|Project||2021-12-23|2022-01-22|In Progress|Based on a Real Python tutorial, adapted to my learning map|https://github.com/jeremymiller00/learningmap-cli|
+|Escaping the Build Trap|Product Management|Book|:sparkles:|2022-03-26|2022-04-26|Done|Canonical product text; tons of great ideas, but not the most clearly organized book|https://melissaperri.com/book|
+|Outcomes Over Output|Product Management|Book|:sparkles:|2022-03-20|2022-03-25|Done|Canonical product text; super clear and practical|https://www.senseandrespondpress.com/managing-outcomes|
+|Learning Map CLI|Software Engineering|Project||2021-12-23|2022-01-22|Done|Based on a Real Python tutorial, adapted to my learning map|https://github.com/jeremymiller00/learningmap-cli|
 |Prediction Machines|Product Management|Book||2021-12-13|2021-12-26|Done|Book by Agrawal, Gans, and Goldfarb; ML from and Economics perspective||
 |Inspired: How to Create Tech Products that Customers Love|Product Management|Book|:sparkles:|2021-11-20|2021-12-12|Done|Book by Marty Cagan||
 |AWS Solutions Architect|Software Engineering|Course||2020-06-01|2021-12-12|Done|Good reference resource|Udemy|
-|Streamlit Cloud|Machine Learning|Tutorial|2021-12-01|2021-12-10||Done|Free hosting of streamlit apps|https://streamlit.io/cloud|
+|Streamlit Cloud|Machine Learning|Tutorial||2021-12-01|2021-12-10|Done|Free hosting of streamlit apps|https://streamlit.io/cloud|
 |CS50x|Software Engineering|Course||2021-09-01|2021-11-05|Done|Great course; even though there was many things I already knew the framing and filling of gaps was valuable||
 |A Huge Value Add for Data Scientists|Product Management|Article|:sparkles:|2021-11-01|2021-11-01|Done|Great article about product mindset for data science|https://ericdataproduct.substack.com/p/a-huge-value-add-for-data-scientists|
 |20 Things Ive Learned in My 20 Years as a Software Engineer|Software Engineering|Article|:sparkles:|2021-10-19|2021-10-19|Done|Excellent article full of wisdom|https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer|
@@ -51,21 +53,18 @@
 
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
-|Outcomes Over Output|Product Management|Book||2022-03-20||In Progress|Canonical product text|https://www.senseandrespondpress.com/managing-outcomes|
+|High Performance Python|Machine Learning|Book||2022-04-26||In Progress|||
 
 ## To Do
 
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
-|Using Jira for Product Management|Product Management|Course||||To Do|Though My Learning||
-|The Build Trap|Product Management|Book||||To Do|Canonical product text|https://melissaperri.com/book|
 |Composing Programs|Software Engineering|Book||2021-12-28||In Progress|Canonical text|https://composingprograms.com/|
+|Pragmatic Programmer|Software Engineering|Book||||To Do|Classic Software Engineering Text||
 |Graph Algorithms: Practical Examples in Apache Spark and Neo4j|Machine Learning|Book||||To Do||https://go.neo4j.com/rs/710-RRC-335/images/Neo4j_Graph_Algorithms.pdf|
-|High Performance Python|Machine Learning|Book||||To Do|||
 |R For Data Science|Machine Learning|Book||2021-12-31||To Do|Want to Learn R|https://r4ds.had.co.nz/index.html|
 |Transformers From Scratch|Machine Learning|Tutorial||||To Do||https://e2eml.school/transformers.html|
 |Neo4j Tutorial|Machine Learning|Tutorial||||To Do||https://neo4j.com/developer/get-started/|
 |Huggingface Course|Machine Learning|Course||||To Do|Github|https://huggingface.co/course/chapter1|
 |Bayesian Methods for Hackers|Machine Learning|Tutorial||||On Hold|Github||
 |The Art of Data Analysis|Machine Learning|Book||||To Do|Book by Peng and Matsui|https://bookdown.org/rdpeng/artofdatascience/|
-|Pragmatic Programmer|Software Engineering|Book||||To Do|Classic Software Engineering Text||
