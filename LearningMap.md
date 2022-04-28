@@ -59,6 +59,7 @@
 
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
+|Lean UX|Product Management|Book||||To Do||https://www.amazon.com/Lean-UX-Applying-Principles-Experience/dp/1449311652|
 |Composing Programs|Software Engineering|Book||2021-12-28||In Progress|Canonical text|https://composingprograms.com/|
 |Pragmatic Programmer|Software Engineering|Book||||To Do|Classic Software Engineering Text||
 |Graph Algorithms: Practical Examples in Apache Spark and Neo4j|Machine Learning|Book||||To Do||https://go.neo4j.com/rs/710-RRC-335/images/Neo4j_Graph_Algorithms.pdf|
