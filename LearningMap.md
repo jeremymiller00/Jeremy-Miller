@@ -53,6 +53,7 @@
 
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
+|The Product-Led Organization|Product Management|Book||2022-06-02||In Progress|By Todd Olson||
 |High Performance Python|Machine Learning|Book||2022-04-26||In Progress|||
 
 ## To Do

@@ -4,7 +4,13 @@ Here's my [learning map](LearningMap.md), a page showing my continuing education
 Here's my [resume](Jeremy_Miller_Resume.pdf).  
 Here's some of my [writing](posts/toc.md).
 
-## Project Currently in Production / Completed
+## Projects Currently in Production / Completed
+### Auto-Assign Research Categories to Grant Documents (Product Manager)
+* Worked with stakeholders to scope project and define success metrics.
+* Partnered with Data Scientist to size and schedule deliverables.
+* Coordinated with both parties to ensure a successful outcome was delivered.
+* Impact: Must-have feature for go-live of new product, enabling new sales.
+
 ### Gradient Boosted Tree Model for Scholarly Reference Matching
 * Given a reference from a scholarly journal article, match it to its source in a database.
 * XGBoost model with Bayesian hyperparameter optimization.
@@ -50,7 +56,7 @@ Here's some of my [writing](posts/toc.md).
 * Worked with product manager to solicit efficient creation of labeled data set.
 * Trained logistic regression model in Python to predict match between publisher and company records; accuracy 99%.
 * Wrote and tested basic REST endpoint to provide on-demand predictions.
-* ~%100k annual revenue enabled.
+* Impact: ~%100k annual revenue enabled.
 
 ### Gradient Boosted Tree model for metadata classification. Finds relevant researchers for email marketing product.
 * Projected to decrease product delivery time by at least 50% for product with ~6mil annual revenue.
@@ -80,6 +86,18 @@ A technique for using document labels to transform word-vector space such that d
 * Impact: accelerate experimentation of document similarity models across several products. 
 
 ## Projects in Development / Prototypes
+### Identify Outlier Behavior in Scholarly Publications (Product Manager)
+* Worked with customers and internal stakeholders to define and scope problem.
+* Created success criteria and road map for delivery
+* Coordinating with Data Science and stakeholders to manage on-time delivery and measure outcomes.
+* Impact: preserve company reputation by improving data quality, supporting retention and new sales. 
+
+### Patent Document Summarization (Product Manager)
+* Defined and scoped project with stakeholders.
+* Identified success metrics and targets; built road map for incremental delivery.
+* Coordinated with Data Scientist and stakeholders to ensure successful delivery.
+* Impact: group of summarization models currently saves ~$500k through automation, which further expansion in the pipeline.
+
 ### Keyword Prediction
 Deep Learning Natural Language token classification. Predict match between an academic text and a potential keyword.
 * Extracted data set from ~28mil published academic journal articles.
