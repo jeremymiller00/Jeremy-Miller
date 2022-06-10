@@ -12,6 +12,13 @@
 * https://teachyourselfcs.com/#programming
 * https://hastie.su.domains/ElemStatLearn/
 
+## In Progress
+
+|Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
+|-|-|-|-|-|-|-|-|-|
+|The Product-Led Organization|Product Management|Book||2022-06-02||In Progress|By Todd Olson||
+|High Performance Python|Machine Learning|Book||2022-04-26||In Progress|||
+
 ## Done
 
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
@@ -48,13 +55,6 @@
 |Doing Data Science|Machine Learning|Book||2019-04-04|2019-06-13|Done|Great beginner book||
 |Weapons of Math Destruction|Machine Learning|Book|:sparkles:|2019-06-11|2019-07-07|Done|By Cathy O'Neill Excellent book||
 |Introduction to Statistical Learning|Machine Learning|Book|:sparkles:|2018-05-21|2019-03-01|Done|Excellent book||
-
-## In Progress
-
-|Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
-|-|-|-|-|-|-|-|-|-|
-|The Product-Led Organization|Product Management|Book||2022-06-02||In Progress|By Todd Olson||
-|High Performance Python|Machine Learning|Book||2022-04-26||In Progress|||
 
 ## To Do
 
