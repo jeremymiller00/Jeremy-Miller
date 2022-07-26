@@ -17,3 +17,4 @@
 * https://artsy.github.io/blog/2020/07/23/from-engineering-to-product-management-and-back-again/
 * https://medium.com/news-uk-technology/the-0-1-done-strategy-for-data-science-3c1737de14b3
 * https://medium.com/swlh/how-to-be-a-more-effective-internal-product-manager-e14143e3343
+* https://staysaasy.com/management/2022/07/10/Writing-Management.html
