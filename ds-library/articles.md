@@ -11,6 +11,9 @@
 * https://www.delibr.com/post/visual-guide-to-the-best-books-on-product-management/
 * https://shopifyengineering.myshopify.com/blogs/engineering/a-data-scientist-s-guide-to-measuring-product-success
 * https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007
+* https://lucasfcosta.com/2022/07/19/finish-what-you-start.html
+* https://blog.upbound.io/succeeding-as-a-fully-remote-product-manager/
+
 
 
 ## Silver
