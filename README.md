@@ -4,13 +4,48 @@ Here's my [learning map](LearningMap.md), a page showing my continuing education
 Here's my [resume](Jeremy_Miller_Resume.pdf).  
 Here's some of my [writing](posts/toc.md).
 
-## Projects Currently in Production / Completed
-### Auto-Assign Research Categories to Grant Documents (Product Manager)
-* Worked with stakeholders to scope project and define success metrics.
-* Partnered with Data Scientist to size and schedule deliverables.
-* Coordinated with both parties to ensure a successful outcome was delivered.
+## Achievements in First Year as Product Manager, Data Science
+### Refine and Implement 3-Part Cycle for Data Science Steering Group
+* Provided clarifying structure to help steering group meet it's goals.
+* Garnered support from all key stakeholders.
+* Implemented 3-part cycle from start of 2022 with clear success definition for each step in the cycle; met success definition 94% of the time.
+
+### Expanded and Promoted Data Science Internship Program for 2022
+* Transitioned from Pilot Program in 2021.
+* Defined success as supporting interns in reaching their learning goals and identifying future colleagues for our team.
+* Successfully recruited for an filled both Data Science Intern positions for summer 2022.
+* Engaged team members to serve as mentors for Data Science interns.
+* Served as "mentor to the mentors" to help ensure success criteria were met.
+
+### Consolidated Business Review Process into Larger Stakeholder Communication Cycle
+* Built stakeholder trust through a track record of predictable delivery.
+* Collaborated with team members to successfully retire time consuming and redundant Business Review process
+
+### Auto-Assign Research Categories to Grant Documents
+* Given a document in a Grants database, assign one or more research categories.
+* Worked with stakeholders and Data Scientist to scope project, define success metrics, and schedule deliverables.
+* Model delivered with 93% Precision and 100% Completeness, both above the acceptance targets.
 * Impact: Must-have feature for go-live of new product, enabling new sales.
 
+### Research Landscape Monitoring
+* Given a large body of research documents, identify publishers whose behavior makes them an outlier
+* Partnered with content experts and Data Scientists to scope project, define success metrics, and schedule deliverables.
+* POC model delivered and under evaluation.
+* Impact: Preserve integrity of data product, reputation.
+
+### Document Abstraction and Summarization Suite
+* Given a large body of research documents composed in various formats, create a service hosting a suite of models to abstract them into a common data structure.
+* Partnered with content experts and Data Scientists to scope project, define success metrics, and schedule deliverables.
+* 6 models delivered an validated by content teams and currently in production; 2 more in development
+* Impact: Save operational costs >$500k, with marginal impact on data quality. 
+
+### Complex Data Service Integration
+* Support complex integration of two large data systems which represent the same underlying entities with different data models.
+* Consistently pushed for clear success metrics and defintions; served as the "voice of the data".
+* Identified and supported mitigation of impact on two downstream Machine Learning services
+* Impact: Consistent, streamlined, and more complete user experience. Engagement metrics up ~100% in the weeks since delivery.
+
+## Projects Currently in Production / Completed (Data Scientist)
 ### Gradient Boosted Tree Model for Scholarly Reference Matching
 * Given a reference from a scholarly journal article, match it to its source in a database.
 * XGBoost model with Bayesian hyperparameter optimization.
