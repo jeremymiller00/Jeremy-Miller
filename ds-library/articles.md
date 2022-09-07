@@ -8,6 +8,7 @@
 * https://www.datascience-pm.com/traditional-approaches/
 * https://www.delibr.com/post/visual-guide-to-the-best-books-on-product-management/
 * https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007
+* https://twitter.com/shreyas/status/1492345140492472321 # advanced time management
 
 ## Silver
 * https://artsy.github.io/blog/2020/07/23/from-engineering-to-product-management-and-back-again/
