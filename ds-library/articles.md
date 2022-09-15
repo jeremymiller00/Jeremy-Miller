@@ -9,6 +9,8 @@
 ### Silver
 * https://medium.com/news-uk-technology/the-0-1-done-strategy-for-data-science-3c1737de14b3
 * https://eugeneyan.com/writing/system-design-for-discovery/
+* https://www.mckinsey.com/business-functions/operations/our-insights/operationalizing-machine-learning-in-processes
+
 
 ## Product / Business / Leadership
 ### Gold
