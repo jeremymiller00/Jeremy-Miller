@@ -12,11 +12,11 @@ Here's some of my [writing](posts/toc.md).
 * Outcome: Reduced time for editorial investigations; greater proportion of "bad actors" identified; fewer comments from customers about data integrity.
 * Targeted Impact: Increased product reputation measured in sales and retention metrics; preserve integrity and reputation of data product.
 
-### Document Abstraction and Summarization Suite
-* Given a large body of research documents composed in various formats, create a service hosting a suite of models to abstract them into a common data structure.
+### Patent document Abstraction and Summarization Suite
+* Given a large body of patent documents composed in various formats, create a service hosting a suite of models to abstract them into a common data structure.
 * Partnered with content experts and Data Scientists to scope project, define success metrics, and schedule deliverables.
 * 6 models delivered an validated by content teams and currently in production; 2 more in development.
-* Outcome: Save operational costs >$500k by greatly reducing human effort, with marginal impact on data quality.
+* Outcome: Save operational costs >$2M by greatly reducing human effort, with marginal impact on data quality.
 * Targeted Impact: Support the financial health of the company.
 
 ### Auto-Assign Research Categories to Grant Documents
@@ -25,7 +25,7 @@ Here's some of my [writing](posts/toc.md).
 * Model delivered with 93% Precision and 100% Completeness, both above the acceptance targets.
 * Outcome: Must-have feature for go-live of new product, enabling new sales.
 
-### Refine and Implement 3-Part Cycle for Data Science Steering Group
+### Design and Implement 3-Part Cycle for Data Science Steering Group
 * Provided clarifying structure to help steering group meet it's goals.
 * Garnered support from all key stakeholders.
 * Implemented 3-part cycle from start of 2022 with clear success definition for each step in the cycle; met success definition 94% of the time.
@@ -48,12 +48,28 @@ Here's some of my [writing](posts/toc.md).
 * Targeted Impact: Consistent, streamlined, and more complete user experience. 
 
 ## Projects Currently in Production / Completed (Data Scientist)
+### Linear classifier for matching manuscripts to researcher records.
+* Delivered weekly Bayesian A/B testing for old/new model versions over 3 months. 100% of customers moved to new model, with metrics improved by 10% and lower technical debt.
+* Wrote bash script and cron job to automate extraction every 2 weeks.
+* Delivered monthly data reporting pipeline using Python and SQL to gather, analyze, and present monthly usage data.
+* Validated and updated prior model training process.
+* Outcome: $2M annual revenue enabled
+* Impact: retention of best-in-class status for product; model drift mitigated.
+
 ### Gradient Boosted Tree Model for Scholarly Reference Matching
 * Given a reference from a scholarly journal article, match it to its source in a database.
 * XGBoost model with Bayesian hyperparameter optimization.
 * ROC AUC and Avg Precision each increased by 1 percentage point to 0.99 and 0.96, respectively.
 * Collaborated with content technical team to deploy into QA environment for testing.
+* Outcome: save annual operations costs >=$1M
 * Impact: 10% increase in workflow automation expected (in testing); model drift mitigated.
+
+### Gradient Boosted Tree model for metadata classification. Finds relevant researchers for email marketing product.
+* Delivered Gradient Boosted Tree model with Spark ML with score 50% greater than POC target.
+* Worked with product team to define metrics and goals.
+* Gathered and joined data from multiple sources to construct training data set.
+* Worked with subject matter expert to review and validate process and results.
+* Outcome: reduction product delivery time by ~20% and mitigation of tech debt for product with ~$3mil annual revenue; opens door to future improvements.
 
 ### Document Cluster Label Extraction / Creation
 * Given a cluster of related documents ranging in size from approximately 10 to 10,000, extract / create a meaningful, "readable" label for users.
@@ -77,63 +93,30 @@ Here's some of my [writing](posts/toc.md).
 * Used Spark SQL to created dataset from rolling 10-year window of published articles.
 * Filtered data down to ~14 million records based on criteria determined by consultation with product team.
 * Improved model through error analysis to improve predictions from most error-prone inputs.
-* Enhanced Publisher Analytics toolkit by implementing PCA data extaction stage for export to Tableau. 
+* Enhanced Publisher Analytics toolkit by implementing PCA data extraction stage for export to Tableau. 
 * Aligned product with customer needs by modifying model architecture to account for new features.
-* Impact: new customer acquistion and retention expected to be positively impacted.
+* Outcome: part of a suite of features to support retention and new sales of subscription-based product.
+* Impact: new customer acquisition and retention expected to be positively impacted.
 
-### Linear classifier for matching manuscripts to researcher records.
-* Delivered weekly Bayesian A/B testing for old/new model versions over 3 months. 100% of customers moved to new model, with metrics improved by 10% and lower technical debt.
-* Wrote bash script and cron job to automate extraction every 2 weeks.
-* Delivered monthly data reporting pipeline using Python and SQL to gather, analyze, and present monthly usage data.
-* Validated and updated prior model training process.
-* Impact: retention of  best-in-class status for product; model drift mitigated.
-
-### Linear classifer for Natual Language document classification. Matches publisher data to company database records for Publisher Analytics reporting.
+### Linear classifier for Natural Language document classification. Matches publisher data to company database records for Publisher Analytics reporting.
 * Key algorithm in product with revenue ~100k per year.
 * Worked with product manager to solicit efficient creation of labeled data set.
 * Trained logistic regression model in Python to predict match between publisher and company records; accuracy 99%.
 * Wrote and tested basic REST endpoint to provide on-demand predictions.
-* Impact: ~%100k annual revenue enabled.
-
-### Gradient Boosted Tree model for metadata classification. Finds relevant researchers for email marketing product.
-* Projected to decrease product delivery time by at least 50% for product with ~6mil annual revenue.
-* Delivered Gradient Boosted Tree model with Spark ML with score 50% greater than POC target.
-* Worked with product team to define metrics and goals.
-* Gathered and joined data from mutiple sources to construct training data set.
-* Worked with subject matter expert to review and validate process and results.
-* Impact: reduction of tech debt for product with ~$3mil annual revenue; opens door to future improvements.
+* Outcome: $100k annual revenue enabled.
 
 ### Linear ensemble of unsupervised natural language extraction models. Helps journal editors manage workflow by quickly assessing fit between manuscript and publications. 
 * Delivered Java implementations of LexRank and TextRank for key sentence extraction. 
 * Trained Logistic Regression model in Scala using Apache Spark and Stanford Core NLP to classify candidate sentences.
 * Created ensemble model and incorporated user feedback data to improve predictions over time.
-* Impact: helps retain best-in-class status of workflow support tool.
+* Outcome: helps retain best-in-class status of workflow support tool.
 
+## Projects in Development / Prototypes
 ### Gradient Boosted Tree / Deep Learning ensemble for combined metadata / NLP regression. Helps journals identify important research, and researchers project their future impact. 
 * Delivered POC report showing 15% improvement in MAE over baseline.
 * Extracted ~15 million scientific journal articles; performed extensive feature engineering to find predictors.
-* Modeled metadata features using a Gradient Boosted Tree model; modeled text content using deep learning; ensembled for best prediction.
+* Modeled metadata features using a Gradient Boosted Tree model; modeled text content using deep learning; ensemble model used for best prediction.
 * Impact: TBD; further product development on hold due to product team priorities.
-
-### Supervised Word Mover's Distance Python Package
-A technique for using document labels to transform word-vector space such that documents with matching labels are close togehter.
-* Wrote Python package to implement Supervised Word Mover's Distance.
-* Useful for measuring document distance when a particular dimension is of interest.
-* Available for use throughout company.
-* Impact: accelerate experimentation of document similarity models across several products. 
-
-## Projects in Development / Prototypes
-### Identify Outlier Behavior in Scholarly Publications (Product Manager)
-* Worked with customers and internal stakeholders to define and scope problem.
-* Created success criteria and road map for delivery
-* Coordinating with Data Science and stakeholders to manage on-time delivery and measure outcomes.
-* Impact: preserve company reputation by improving data quality, supporting retention and new sales. 
-
-### Patent Document Summarization (Product Manager)
-* Defined and scoped project with stakeholders.
-* Identified success metrics and targets; built road map for incremental delivery.
-* Coordinated with Data Scientist and stakeholders to ensure successful delivery.
-* Impact: group of summarization models currently saves ~$500k through automation, which further expansion in the pipeline.
 
 ### Keyword Prediction
 Deep Learning Natural Language token classification. Predict match between an academic text and a potential keyword.
@@ -147,8 +130,9 @@ Given a new manuscript submission to an academic journal, what is the probabilit
 * Used Spark, Tensorflow, and Keras.
 * On hold due to product team priorities.
 
-### LDA Topic Modeling Proof-of-Concept
-Train and visualize Latent Dirichlet Allocation model to identify subtopics in scientific academic publishing.
-
-### Predicting Success in Online Education
-Train Random Forest model to predict final success in online college courses using student interaction data from the first 25% of the course.
+### Supervised Word Mover's Distance Python Package
+A technique for using document labels to transform word-vector space such that documents with matching labels are close together.
+* Wrote Python package to implement Supervised Word Mover's Distance.
+* Useful for measuring document distance when a particular dimension is of interest.
+* Available for use throughout company.
+* Impact: accelerate experimentation of document similarity models across several products. 
