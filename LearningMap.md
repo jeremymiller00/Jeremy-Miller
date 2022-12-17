@@ -9,20 +9,18 @@
 ## North Stars
 * https://svpg.com/inspired-how-to-create-products-customers-love/
 * https://norvig.com/21-days.html
-* https://teachyourselfcs.com/#programming
+* https://teachyourselfcs.com/
 * https://hastie.su.domains/ElemStatLearn/
 
 ## In Progress
-
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
-|The Product-Led Organization|Product Management|Book||2022-06-02||In Progress|By Todd Olson||
-|High Performance Python|Machine Learning|Book||2022-04-26||In Progress|||
+|Computer Systems: A Programmer's Perspective|Software Engineering|Book||2023-01-02||In Progress|Part of the Teach Yourself CS Curriculum; Book by Bryant and O'Hallaron|http://csapp.cs.cmu.edu/3e/home.html|
 
 ## Done
-
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
+|Structure and Interpretation of Computer Programs|Software Engineering|Book|:sparkles:|2022-01-20|2022-12-17|Done|Part of the Teach Yourself CS Curriculum;Chapters 1-3, using Brian Harvey's Lectures|https://sarabander.github.io/sicp/html/index.xhtml|
 |Escaping the Build Trap|Product Management|Book|:sparkles:|2022-03-26|2022-04-26|Done|Canonical product text; tons of great ideas, but not the most clearly organized book|https://melissaperri.com/book|
 |Outcomes Over Output|Product Management|Book|:sparkles:|2022-03-20|2022-03-25|Done|Canonical product text; super clear and practical|https://www.senseandrespondpress.com/managing-outcomes|
 |Learning Map CLI|Software Engineering|Project||2021-12-23|2022-01-22|Done|Based on a Real Python tutorial, adapted to my learning map|https://github.com/jeremymiller00/learningmap-cli|
@@ -57,16 +55,20 @@
 |Introduction to Statistical Learning|Machine Learning|Book|:sparkles:|2018-05-21|2019-03-01|Done|Excellent book||
 
 ## To Do
-
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
+|The Algorithm Design Manual|Software Engineering|Book||||To Do|Part of the Teach Yourself CS Curriculum|https://smile.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693/|
+|Operating Systems: Three Easy Pieces|Software Engineering|Book||||To Do|Part of the Teach Yourself CS Curriculum|https://pages.cs.wisc.edu/~remzi/OSTEP/|
+|Computer Networking: A Top-Down Approach|Software Engineering|Book||||To Do|Part of the Teach Yourself CS Curriculum|https://smile.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149/|
+|CS186 Videos: Databases|Software Engineering|Video Course||||Status|Part of the Teach Yourself CS Curriculum|https://www.youtube.com/user/CS186Berkeley/videos|
+|Crafting Interpreters|Software Engineering|Online Book||||To Do|Part of the Teach Yourself CS Curriculum|https://craftinginterpreters.com/contents.html|
+|Designing Data-Intensive Applications|Software Engineering|Book||||To Do|Part of the Teach Yourself CS Curriculum||
+|The Product-Led Organization|Product Management|Book||2022-06-02||To Do|By Todd Olson||
+|High Performance Python|Machine Learning|Book||2022-04-26||To Do|||
 |Lean UX|Product Management|Book||||To Do||https://www.amazon.com/Lean-UX-Applying-Principles-Experience/dp/1449311652|
-|Composing Programs|Software Engineering|Book||2021-12-28||In Progress|Canonical text|https://composingprograms.com/|
 |Pragmatic Programmer|Software Engineering|Book||||To Do|Classic Software Engineering Text||
-|Graph Algorithms: Practical Examples in Apache Spark and Neo4j|Machine Learning|Book||||To Do||https://go.neo4j.com/rs/710-RRC-335/images/Neo4j_Graph_Algorithms.pdf|
 |R For Data Science|Machine Learning|Book||2021-12-31||To Do|Want to Learn R|https://r4ds.had.co.nz/index.html|
 |Transformers From Scratch|Machine Learning|Tutorial||||To Do||https://e2eml.school/transformers.html|
-|Neo4j Tutorial|Machine Learning|Tutorial||||To Do||https://neo4j.com/developer/get-started/|
 |Huggingface Course|Machine Learning|Course||||To Do|Github|https://huggingface.co/course/chapter1|
 |Bayesian Methods for Hackers|Machine Learning|Tutorial||||On Hold|Github||
 |The Art of Data Analysis|Machine Learning|Book||||To Do|Book by Peng and Matsui|https://bookdown.org/rdpeng/artofdatascience/|
