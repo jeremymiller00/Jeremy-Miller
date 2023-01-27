@@ -30,3 +30,4 @@
 * https://blog.upbound.io/succeeding-as-a-fully-remote-product-manager/
 * https://shopifyengineering.myshopify.com/blogs/engineering/a-data-scientist-s-guide-to-measuring-product-success
 * https://www.mindtheproduct.com/got-questions-about-your-product-career/
+* https://youtu.be/PS2cAu0lPAw # You've convinced the c-suite that data is important. Now what?

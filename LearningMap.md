@@ -63,11 +63,11 @@
 |CS186 Videos: Databases|Software Engineering|Video Course||||Status|Part of the Teach Yourself CS Curriculum|https://www.youtube.com/user/CS186Berkeley/videos|
 |Crafting Interpreters|Software Engineering|Online Book||||To Do|Part of the Teach Yourself CS Curriculum|https://craftinginterpreters.com/contents.html|
 |Designing Data-Intensive Applications|Software Engineering|Book||||To Do|Part of the Teach Yourself CS Curriculum||
-|The Product-Led Organization|Product Management|Book||2022-06-02||To Do|By Todd Olson||
-|High Performance Python|Machine Learning|Book||2022-04-26||To Do|||
+|The Product-Led Organization|Product Management|Book||||To Do|By Todd Olson||
+|High Performance Python|Machine Learning|Book||||To Do|||
 |Lean UX|Product Management|Book||||To Do||https://www.amazon.com/Lean-UX-Applying-Principles-Experience/dp/1449311652|
 |Pragmatic Programmer|Software Engineering|Book||||To Do|Classic Software Engineering Text||
-|R For Data Science|Machine Learning|Book||2021-12-31||To Do|Want to Learn R|https://r4ds.had.co.nz/index.html|
+|R For Data Science|Machine Learning|Book||||To Do|Want to Learn R|https://r4ds.had.co.nz/index.html|
 |Transformers From Scratch|Machine Learning|Tutorial||||To Do||https://e2eml.school/transformers.html|
 |Huggingface Course|Machine Learning|Course||||To Do|Github|https://huggingface.co/course/chapter1|
 |Bayesian Methods for Hackers|Machine Learning|Tutorial||||On Hold|Github||
