@@ -9,6 +9,9 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 # install iterm2 using Homebrew
 brew install --cask iterm2
 
+# install oh my zsh, for terminal customization
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+
 # install and configure git
 brew install git
 git config --global user.name "John Doe"
