@@ -94,3 +94,6 @@ brew install --cask visual-studio-code
 #     "python.analysis.typeCheckingMode": "strict",
 #     "python.formatting.provider": "black",
 # }
+
+# other useful things
+brew install tree
