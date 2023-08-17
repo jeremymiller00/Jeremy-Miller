@@ -1,3 +1,5 @@
+# based on this guide
+# https://engineeringfordatascience.com/posts/setting_up_a_macbook_for_data_science/
 
 # homebrew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
