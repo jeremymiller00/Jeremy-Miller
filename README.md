@@ -3,6 +3,20 @@ An up-to-date list of data science projects with basic description.
 Here's my [resume](Jeremy_Miller_Resume.pdf).  
 
 ## Achievements as Product Manager, Data Science
+
+### Bring AI Search to Scholarly Research Database
+* Collaborated broadly with User Experience, Engineering, and Product teams to deliver AI search functionality, such as semantic search, dynamic query modification, query parsing, etc.
+* Helped educate stakeholders on possibilities and requirements for delivering AI search features in existing discovery and retrieval workflow.
+* Defined success metrics and requirements for specific AI-enabled components.
+* Outcome: Increased product engagement.
+* Targeted Impact: Increased product sales and renewals.
+
+### Back End Search for Email Marketing Workflow
+* Reduced workflow for finding researchers for an email marketing product from three software tools to one, saving time and compute cost.
+* Partnered directly with internal users to understand and develop for unmet needs in current workflow.
+* Outcome: Reduced time for response to customer queries; enabled colleagues to more effectively apply expertise to finding researchers.
+* Targeted Impact: Increased CTR on email campaigns, supporting increased product sales.
+
 ### Research Landscape Monitoring
 * Given a large body of research documents, identify journals and publishers whose behavior is outside that of "normal" scientific publishing.
 * Partnered with content experts and Data Scientists to scope project, define success metrics, and schedule deliverables.
