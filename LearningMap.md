@@ -1,21 +1,20 @@
-# Learning Map
+# Learning Map v1
 [Project List](README.md)
 
-## Competencies
-* Machine Learning
-* Software Engineering
+## Ranked Competencies
 * Product Management
+* Machine Learning
+* Business Strategy
+* (Software Engineering) - On Hold
 
 ## North Stars
 * https://svpg.com/inspired-how-to-create-products-customers-love/
 * https://norvig.com/21-days.html
 * https://teachyourselfcs.com/
-* https://hastie.su.domains/ElemStatLearn/
 
 ## In Progress
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
-|Computer Systems: A Programmer's Perspective|Software Engineering|Book||2023-01-02||In Progress|Part of the Teach Yourself CS Curriculum; Book by Bryant and O'Hallaron|http://csapp.cs.cmu.edu/3e/home.html|
 
 ## Done
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
@@ -54,9 +53,19 @@
 |Weapons of Math Destruction|Machine Learning|Book|:sparkles:|2019-06-11|2019-07-07|Done|By Cathy O'Neill Excellent book||
 |Introduction to Statistical Learning|Machine Learning|Book|:sparkles:|2018-05-21|2019-03-01|Done|Excellent book||
 
-## To Do
+## To Do - Approximate Priority Order
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
+|Working Backwards|Product Management, Business Strategy|Book||||To Do||https://www.amazon.com/Working-Backwards-Insights-Stories-Secrets/dp/1250267595|
+|Good Strategy, Bad Strategy|Business Strategy|Book||||To Do||https://www.amazon.com/Good-Strategy-Bad-Difference-Matters/dp/0307886239|
+|Huggingface Course|Machine Learning|Course||||To Do|Github|https://huggingface.co/course/chapter1|
+|Good to Great|Business Strategy|Book||||To Do||https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996|
+|Lean UX|Product Management|Book||||To Do||https://www.amazon.com/Lean-UX-Applying-Principles-Experience/dp/1449311652|
+|Management|Business Strategy|Book||||To Do||https://www.amazon.com/Management-Rev-Ed-Peter-Drucker/dp/0061252662/|
+|Moonshots|Product Management, Business Strategy|Book||||To Do||https://www.amazon.com/Moonshots-Creating-Abundance-Naveen-Jain/dp/099973640X|
+
+## Won't Do in the Near Future
+|Computer Systems: A Programmer's Perspective|Software Engineering|Book||2023-01-02||On Hold|Part of the Teach Yourself CS Curriculum; Book by Bryant and O'Hallaron|http://csapp.cs.cmu.edu/3e/home.html|
 |The Algorithm Design Manual|Software Engineering|Book||||To Do|Part of the Teach Yourself CS Curriculum|https://smile.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693/|
 |Operating Systems: Three Easy Pieces|Software Engineering|Book||||To Do|Part of the Teach Yourself CS Curriculum|https://pages.cs.wisc.edu/~remzi/OSTEP/|
 |Computer Networking: A Top-Down Approach|Software Engineering|Book||||To Do|Part of the Teach Yourself CS Curriculum|https://smile.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149/|
@@ -65,10 +74,8 @@
 |Designing Data-Intensive Applications|Software Engineering|Book||||To Do|Part of the Teach Yourself CS Curriculum||
 |The Product-Led Organization|Product Management|Book||||To Do|By Todd Olson||
 |High Performance Python|Machine Learning|Book||||To Do|||
-|Lean UX|Product Management|Book||||To Do||https://www.amazon.com/Lean-UX-Applying-Principles-Experience/dp/1449311652|
-|Pragmatic Programmer|Software Engineering|Book||||To Do|Classic Software Engineering Text||
-|R For Data Science|Machine Learning|Book||||To Do|Want to Learn R|https://r4ds.had.co.nz/index.html|
-|Transformers From Scratch|Machine Learning|Tutorial||||To Do||https://e2eml.school/transformers.html|
-|Huggingface Course|Machine Learning|Course||||To Do|Github|https://huggingface.co/course/chapter1|
 |Bayesian Methods for Hackers|Machine Learning|Tutorial||||On Hold|Github||
 |The Art of Data Analysis|Machine Learning|Book||||To Do|Book by Peng and Matsui|https://bookdown.org/rdpeng/artofdatascience/|
+|Bayesian Methods for Hackers|Machine Learning|Tutorial||||On Hold|Github||
+|The Art of Data Analysis|Machine Learning|Book||||To Do|Book by Peng and Matsui|https://bookdown.org/rdpeng/artofdatascience/|
+
