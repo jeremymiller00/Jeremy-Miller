@@ -34,7 +34,6 @@
 |Teach Yourself Programming in 10 Years|Software Engineering|Article|:sparkles:|2021-09-01|2021-09-01|Done|Great article for building perspective|https://norvig.com/21-days.html|
 |Computer Science Distilled|Software Engineering|Book||2021-06-01|2021-08-01|Done|Great book for viewing core computer science topics through a slightly different lens||
 |Machine Learning Engineering|Software Engineering|Book||2021-03-25|2021-07-12|Done|By Andriy Burkov||
-|Computer Science Distilled|Software Engineering|Book||2021-03-03|2021-05-25|Done|Clear concise book for core computer science topics||
 |Java Spring Boot Master Class|Software Engineering|Course||2021-02-11|2021-05-05|Done||Udemy|
 |The Signal and the Noise|Machine Learning|Book|:sparkles:|2021-02-03|2021-04-22|Done|By Nate Silver Excellent book though opinionated at times||
 |Machine Learning for Social Impact|Product Management|Article|:sparkles:|2021-01-03|2021-01-03|Done|Great article for framing uses of machine learning|https://www.drivendata.co/blog/intro-to-machine-learning-social-impact|
