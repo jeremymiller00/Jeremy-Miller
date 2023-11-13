@@ -15,10 +15,13 @@
 ## In Progress
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
+|Huggingface Course|Machine Learning|Course||2023-11-13||In Progress|Github|https://huggingface.co/course/chapter1|
+
 
 ## Done
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
+|A Hacker's Guide to Language Models|Machine Learning|Video||2023-11-11|2023-11-12|Done|Comes with Jupyter notebook|https://www.youtube.com/watch?v=jkrNMKz9pWU|
 |Structure and Interpretation of Computer Programs|Software Engineering|Book|:sparkles:|2022-01-20|2022-12-17|Done|Part of the Teach Yourself CS Curriculum;Chapters 1-3, using Brian Harvey's Lectures|https://sarabander.github.io/sicp/html/index.xhtml|
 |Escaping the Build Trap|Product Management|Book|:sparkles:|2022-03-26|2022-04-26|Done|Canonical product text; tons of great ideas, but not the most clearly organized book|https://melissaperri.com/book|
 |Outcomes Over Output|Product Management|Book|:sparkles:|2022-03-20|2022-03-25|Done|Canonical product text; super clear and practical|https://www.senseandrespondpress.com/managing-outcomes|
@@ -53,15 +56,21 @@
 |Introduction to Statistical Learning|Machine Learning|Book|:sparkles:|2018-05-21|2019-03-01|Done|Excellent book||
 
 ## To Do - Approximate Priority Order
+### Reading
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
 |Working Backwards|Product Management, Business Strategy|Book||||To Do||https://www.amazon.com/Working-Backwards-Insights-Stories-Secrets/dp/1250267595|
 |Good Strategy, Bad Strategy|Business Strategy|Book||||To Do||https://www.amazon.com/Good-Strategy-Bad-Difference-Matters/dp/0307886239|
-|Huggingface Course|Machine Learning|Course||||To Do|Github|https://huggingface.co/course/chapter1|
 |Good to Great|Business Strategy|Book||||To Do||https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996|
 |Lean UX|Product Management|Book||||To Do||https://www.amazon.com/Lean-UX-Applying-Principles-Experience/dp/1449311652|
 |Management|Business Strategy|Book||||To Do||https://www.amazon.com/Management-Rev-Ed-Peter-Drucker/dp/0061252662/|
 |Moonshots|Product Management, Business Strategy|Book||||To Do||https://www.amazon.com/Moonshots-Creating-Abundance-Naveen-Jain/dp/099973640X|
+### Doing
+|Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
+|-|-|-|-|-|-|-|-|-|
+|Building LLM Powered Apps|Machine Learning|Course||||To Do|Weights and Biases course|https://www.wandb.courses/courses/building-llm-powered-apps|
+|Training and Fine Tuning LLMs|Machine Learning|Course||||To Do|Weights and Biases course|https://www.wandb.courses/courses/training-fine-tuning-LLMs|
+
 
 ## Won't Do in the Near Future
 |Computer Systems: A Programmer's Perspective|Software Engineering|Book||2023-01-02||On Hold|Part of the Teach Yourself CS Curriculum; Book by Bryant and O'Hallaron|http://csapp.cs.cmu.edu/3e/home.html|
