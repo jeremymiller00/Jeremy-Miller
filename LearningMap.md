@@ -16,6 +16,7 @@
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
 |Huggingface Course|Machine Learning|Course||2023-11-13||In Progress|Github|https://huggingface.co/course/chapter1|
+|Prompt Engineering|Machine Learning|Article||2023-11-14||In Progress|Github|https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/|
 
 
 ## Done
