@@ -4,7 +4,7 @@
 ## Ranked Competencies
 * Product Management
 * Machine Learning
-* Business Strategy
+* Business Strategy and Leadership
 * (Software Engineering) - On Hold
 
 ## North Stars
@@ -15,6 +15,7 @@
 ## In Progress
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
+|Leaders Eat Last|Business Strategy and Leadership|Book||2023-11-15||In Progress|by Simon Sinek||
 |Huggingface Course|Machine Learning|Course||2023-11-13||In Progress|Github|https://huggingface.co/course/chapter1|
 |Prompt Engineering|Machine Learning|Article||2023-11-14||In Progress|Github|https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/|
 
@@ -60,12 +61,12 @@
 ### Reading
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
-|Working Backwards|Product Management, Business Strategy|Book||||To Do||https://www.amazon.com/Working-Backwards-Insights-Stories-Secrets/dp/1250267595|
-|Good Strategy, Bad Strategy|Business Strategy|Book||||To Do||https://www.amazon.com/Good-Strategy-Bad-Difference-Matters/dp/0307886239|
-|Good to Great|Business Strategy|Book||||To Do||https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996|
+|Working Backwards|Product Management, Business Strategy and Leadership|Book||||To Do||https://www.amazon.com/Working-Backwards-Insights-Stories-Secrets/dp/1250267595|
+|Good Strategy, Bad Strategy|Business Strategy and Leadership|Book||||To Do||https://www.amazon.com/Good-Strategy-Bad-Difference-Matters/dp/0307886239|
+|Good to Great|Business Strategy and Leadership|Book||||To Do||https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996|
 |Lean UX|Product Management|Book||||To Do||https://www.amazon.com/Lean-UX-Applying-Principles-Experience/dp/1449311652|
-|Management|Business Strategy|Book||||To Do||https://www.amazon.com/Management-Rev-Ed-Peter-Drucker/dp/0061252662/|
-|Moonshots|Product Management, Business Strategy|Book||||To Do||https://www.amazon.com/Moonshots-Creating-Abundance-Naveen-Jain/dp/099973640X|
+|Management|Business Strategy and Leadership|Book||||To Do||https://www.amazon.com/Management-Rev-Ed-Peter-Drucker/dp/0061252662/|
+|Moonshots|Product Management, Business Strategy and Leadership|Book||||To Do||https://www.amazon.com/Moonshots-Creating-Abundance-Naveen-Jain/dp/099973640X|
 ### Doing
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
