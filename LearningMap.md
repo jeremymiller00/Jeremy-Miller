@@ -18,12 +18,11 @@
 |Leaders Eat Last|Business Strategy and Leadership|Book||2023-11-15||In Progress|by Simon Sinek||
 |Huggingface Course|Machine Learning|Course||2023-11-13||In Progress|Github|https://huggingface.co/course/chapter1|
 |AI for Product Managers|Product Management|Course||2023-11-15||In Progress|Github|https://www.productledcertified.com/ai-for-product-management|
-|Leaders Eat Last|Leadership|Book||2023-11-10||In Progress|Simon Sinek||
-
 
 ## Done
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
+|Quality and Safety for LLM Applications|Machine Learning|Course||2023-12-04|2023-12-05|Done||https://www.deeplearning.ai/short-courses/quality-safety-llm-applications/|
 |Prompt Engineering|Machine Learning|Article||2023-11-14|2023-11-14|Done|Github|https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/|
 |A Hacker's Guide to Language Models|Machine Learning|Video||2023-11-11|2023-11-12|Done|Comes with Jupyter notebook|https://www.youtube.com/watch?v=jkrNMKz9pWU|
 |Structure and Interpretation of Computer Programs|Software Engineering|Book|:sparkles:|2022-01-20|2022-12-17|Done|Part of the Teach Yourself CS Curriculum;Chapters 1-3, using Brian Harvey's Lectures|https://sarabander.github.io/sicp/html/index.xhtml|
