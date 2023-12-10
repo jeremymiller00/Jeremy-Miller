@@ -68,9 +68,10 @@
 |Lean UX|Product Management|Book||||To Do||https://www.amazon.com/Lean-UX-Applying-Principles-Experience/dp/1449311652|
 |Management|Business Strategy and Leadership|Book||||To Do||https://www.amazon.com/Management-Rev-Ed-Peter-Drucker/dp/0061252662/|
 |Moonshots|Product Management, Business Strategy and Leadership|Book||||To Do||https://www.amazon.com/Moonshots-Creating-Abundance-Naveen-Jain/dp/099973640X|
-### Doing
+### Making
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
+|Let's Build GPT|Machine Learning|Video||||To Do|Andrei Karpathy video|https://www.youtube.com/watch?v=kCc8FmEb1nY|
 |Building LLM Powered Apps|Machine Learning|Course||||To Do|Weights and Biases course|https://www.wandb.courses/courses/building-llm-powered-apps|
 |Training and Fine Tuning LLMs|Machine Learning|Course||||To Do|Weights and Biases course|https://www.wandb.courses/courses/training-fine-tuning-LLMs|
 
