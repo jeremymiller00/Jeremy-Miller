@@ -15,12 +15,14 @@
 ## In Progress
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
-|Leaders Eat Last|Business Strategy and Leadership|Book||2023-11-15||In Progress|by Simon Sinek||
-|AI for Product Managers|Product Management|Course||2023-11-15||In Progress|Github|https://www.productledcertified.com/ai-for-product-management|
+|Working Backwards|Product Management, Business Strategy and Leadership|Book||||To Do||https://www.amazon.com/Working-Backwards-Insights-Stories-Secrets/dp/1250267595|
 
 ## Done
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
+|Leaders Eat Last|Business Strategy and Leadership|Book||2023-11-15|2023-12-13|In Progress|by Simon Sinek||
+|AI for Product Managers|Product Management|Course||2023-11-15|2023-12-12|In Progress|Github|https://www.productledcertified.com/ai-for-product-management|
+|Building and Evaluating Advanced RAG Applications|Machine Learning|Course||2023-12-14|2023-12-14|Done||https://learn.deeplearning.ai/building-evaluating-advanced-rag/|
 |Huggingface Course|Machine Learning|Course||2023-11-13||In Progress|Github|https://huggingface.co/course/chapter1|
 |Quality and Safety for LLM Applications|Machine Learning|Course||2023-12-04|2023-12-05|Done||https://www.deeplearning.ai/short-courses/quality-safety-llm-applications/|
 |Prompt Engineering|Machine Learning|Article||2023-11-14|2023-11-14|Done|Github|https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/|
@@ -62,7 +64,6 @@
 ### Reading
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
-|Working Backwards|Product Management, Business Strategy and Leadership|Book||||To Do||https://www.amazon.com/Working-Backwards-Insights-Stories-Secrets/dp/1250267595|
 |Good Strategy, Bad Strategy|Business Strategy and Leadership|Book||||To Do||https://www.amazon.com/Good-Strategy-Bad-Difference-Matters/dp/0307886239|
 |Good to Great|Business Strategy and Leadership|Book||||To Do||https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996|
 |Lean UX|Product Management|Book||||To Do||https://www.amazon.com/Lean-UX-Applying-Principles-Experience/dp/1449311652|
@@ -77,6 +78,8 @@
 
 
 ## Won't Do in the Near Future
+|Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
+|-|-|-|-|-|-|-|-|-|
 |Computer Systems: A Programmer's Perspective|Software Engineering|Book||2023-01-02||On Hold|Part of the Teach Yourself CS Curriculum; Book by Bryant and O'Hallaron|http://csapp.cs.cmu.edu/3e/home.html|
 |The Algorithm Design Manual|Software Engineering|Book||||To Do|Part of the Teach Yourself CS Curriculum|https://smile.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693/|
 |Operating Systems: Three Easy Pieces|Software Engineering|Book||||To Do|Part of the Teach Yourself CS Curriculum|https://pages.cs.wisc.edu/~remzi/OSTEP/|
