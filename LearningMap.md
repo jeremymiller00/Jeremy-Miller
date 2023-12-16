@@ -20,8 +20,8 @@
 ## Done
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
-|Leaders Eat Last|Business Strategy and Leadership|Book||2023-11-15|2023-12-13|In Progress|by Simon Sinek||
-|AI for Product Managers|Product Management|Course||2023-11-15|2023-12-12|In Progress|Github|https://www.productledcertified.com/ai-for-product-management|
+|Leaders Eat Last|Business Strategy and Leadership|Book||2023-11-15|2023-12-13|Done|by Simon Sinek||
+|AI for Product Managers|Product Management|Course||2023-11-15|2023-12-12|Done|Github|https://www.productledcertified.com/ai-for-product-management|
 |Building and Evaluating Advanced RAG Applications|Machine Learning|Course||2023-12-14|2023-12-14|Done||https://learn.deeplearning.ai/building-evaluating-advanced-rag/|
 |Huggingface Course|Machine Learning|Course||2023-11-13||In Progress|Github|https://huggingface.co/course/chapter1|
 |Quality and Safety for LLM Applications|Machine Learning|Course||2023-12-04|2023-12-05|Done||https://www.deeplearning.ai/short-courses/quality-safety-llm-applications/|
