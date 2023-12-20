@@ -15,7 +15,25 @@
 ## In Progress
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
+
+## To Do - Approximate Priority Order
+### Reading
+|Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
+|-|-|-|-|-|-|-|-|-|
+|Intro to Large Language Models LLM|Machine Learning|Video|-|-|-|To Do|-|https://www.youtube.com/watch?v=zjkBMFhNj_g|
 |Working Backwards|Product Management, Business Strategy and Leadership|Book||||To Do||https://www.amazon.com/Working-Backwards-Insights-Stories-Secrets/dp/1250267595|
+|Good Strategy, Bad Strategy|Business Strategy and Leadership|Book||||To Do||https://www.amazon.com/Good-Strategy-Bad-Difference-Matters/dp/0307886239|
+|Good to Great|Business Strategy and Leadership|Book||||To Do||https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996|
+|Lean UX|Product Management|Book||||To Do||https://www.amazon.com/Lean-UX-Applying-Principles-Experience/dp/1449311652|
+|Management|Business Strategy and Leadership|Book||||To Do||https://www.amazon.com/Management-Rev-Ed-Peter-Drucker/dp/0061252662/|
+|Moonshots|Product Management, Business Strategy and Leadership|Book||||To Do||https://www.amazon.com/Moonshots-Creating-Abundance-Naveen-Jain/dp/099973640X|
+### Doing
+|Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
+|-|-|-|-|-|-|-|-|-|
+|Mastering Github Copilot for Pair Programming|Machine Learning|Course||||To Do|Course on Github|https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming|
+|Let's Build GPT|Machine Learning|Video||||To Do|Andrei Karpathy video|https://www.youtube.com/watch?v=kCc8FmEb1nY|
+|Building LLM Powered Apps|Machine Learning|Course||||To Do|Weights and Biases course|https://www.wandb.courses/courses/building-llm-powered-apps|
+|Training and Fine Tuning LLMs|Machine Learning|Course||||To Do|Weights and Biases course|https://www.wandb.courses/courses/training-fine-tuning-LLMs|
 
 ## Done
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
@@ -59,23 +77,6 @@
 |Doing Data Science|Machine Learning|Book||2019-04-04|2019-06-13|Done|Great beginner book||
 |Weapons of Math Destruction|Machine Learning|Book|:sparkles:|2019-06-11|2019-07-07|Done|By Cathy O'Neill Excellent book||
 |Introduction to Statistical Learning|Machine Learning|Book|:sparkles:|2018-05-21|2019-03-01|Done|Excellent book||
-
-## To Do - Approximate Priority Order
-### Reading
-|Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
-|-|-|-|-|-|-|-|-|-|
-|Good Strategy, Bad Strategy|Business Strategy and Leadership|Book||||To Do||https://www.amazon.com/Good-Strategy-Bad-Difference-Matters/dp/0307886239|
-|Good to Great|Business Strategy and Leadership|Book||||To Do||https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996|
-|Lean UX|Product Management|Book||||To Do||https://www.amazon.com/Lean-UX-Applying-Principles-Experience/dp/1449311652|
-|Management|Business Strategy and Leadership|Book||||To Do||https://www.amazon.com/Management-Rev-Ed-Peter-Drucker/dp/0061252662/|
-|Moonshots|Product Management, Business Strategy and Leadership|Book||||To Do||https://www.amazon.com/Moonshots-Creating-Abundance-Naveen-Jain/dp/099973640X|
-### Making
-|Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
-|-|-|-|-|-|-|-|-|-|
-|Let's Build GPT|Machine Learning|Video||||To Do|Andrei Karpathy video|https://www.youtube.com/watch?v=kCc8FmEb1nY|
-|Building LLM Powered Apps|Machine Learning|Course||||To Do|Weights and Biases course|https://www.wandb.courses/courses/building-llm-powered-apps|
-|Training and Fine Tuning LLMs|Machine Learning|Course||||To Do|Weights and Biases course|https://www.wandb.courses/courses/training-fine-tuning-LLMs|
-
 
 ## Won't Do in the Near Future
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
