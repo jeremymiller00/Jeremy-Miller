@@ -15,6 +15,8 @@
 ## In Progress
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
+|Blog Scraper App|Machine Learning|Project||2023-12-15||To Do|||
+|LLM Patterns|Machine Learning|Article|2024-01-08|||To Do||https://eugeneyan.com/writing/llm-patterns/|
 
 ## To Do - Approximate Priority Order
 ### Reading and Watching
