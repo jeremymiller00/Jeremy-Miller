@@ -22,6 +22,7 @@
 ### Reading and Watching
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
+|Ten Noteworthy AI Research Papers of 2023|Machine Learning|Article||||To Do||https://magazine.sebastianraschka.com/p/10-ai-research-papers-2023|
 |Intro to Large Language Models LLM|Machine Learning|Video||||To Do||https://www.youtube.com/watch?v=zjkBMFhNj_g|
 |Working Backwards|Product Management, Business Strategy and Leadership|Book||||To Do||https://www.amazon.com/Working-Backwards-Insights-Stories-Secrets/dp/1250267595|
 |Good Strategy, Bad Strategy|Business Strategy and Leadership|Book||||To Do||https://www.amazon.com/Good-Strategy-Bad-Difference-Matters/dp/0307886239|
