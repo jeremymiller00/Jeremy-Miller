@@ -1,3 +1,5 @@
+# Migrated to Study Kanban and Code Kanban in Data Science Vault on 20 Jan 2024
+
 # Learning Map v1
 [Project List](README.md)
 
