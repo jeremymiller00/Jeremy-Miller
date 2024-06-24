@@ -11,42 +11,44 @@
 
 ## North Stars
 * https://svpg.com/inspired-how-to-create-products-customers-love/
+* https://applied-llms.org/
 * https://norvig.com/21-days.html
 * https://teachyourselfcs.com/
 
 ## In Progress
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
-|Blog Scraper App|Machine Learning|Project||2023-12-15||To Do|||
-|LLM Patterns|Machine Learning|Article|2024-01-08|||To Do||https://eugeneyan.com/writing/llm-patterns/|
 
 ## To Do - Approximate Priority Order
 ### Reading and Watching
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
-|Ten Noteworthy AI Research Papers of 2023|Machine Learning|Article||||To Do||https://magazine.sebastianraschka.com/p/10-ai-research-papers-2023|
-|Intro to Large Language Models LLM|Machine Learning|Video||||To Do||https://www.youtube.com/watch?v=zjkBMFhNj_g|
 |Working Backwards|Product Management, Business Strategy and Leadership|Book||||To Do||https://www.amazon.com/Working-Backwards-Insights-Stories-Secrets/dp/1250267595|
 |Good Strategy, Bad Strategy|Business Strategy and Leadership|Book||||To Do||https://www.amazon.com/Good-Strategy-Bad-Difference-Matters/dp/0307886239|
 |Good to Great|Business Strategy and Leadership|Book||||To Do||https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996|
 |Lean UX|Product Management|Book||||To Do||https://www.amazon.com/Lean-UX-Applying-Principles-Experience/dp/1449311652|
-|Management|Business Strategy and Leadership|Book||||To Do||https://www.amazon.com/Management-Rev-Ed-Peter-Drucker/dp/0061252662/|
 |Moonshots|Product Management, Business Strategy and Leadership|Book||||To Do||https://www.amazon.com/Moonshots-Creating-Abundance-Naveen-Jain/dp/099973640X|
 ### Making and Doing
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
+|AI PM Toolkit and Operating Manual|Product Management|Writing||||To Do|Processes over tools, core principles, across ml and genai, deep work, 4k weeks, essentialism|Links|
 |Mastering Github Copilot for Pair Programming|Machine Learning|Course||||To Do|Course on Github|https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming|
 |Let's Build GPT|Machine Learning|Video||||To Do|Andrei Karpathy video|https://www.youtube.com/watch?v=kCc8FmEb1nY|
-|Building LLM Powered Apps|Machine Learning|Course||||To Do|Weights and Biases course|https://www.wandb.courses/courses/building-llm-powered-apps|
-|Training and Fine Tuning LLMs|Machine Learning|Course||||To Do|Weights and Biases course|https://www.wandb.courses/courses/training-fine-tuning-LLMs|
 
 ## Done
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
+|What we've learned from a year of building with LLMs|Machine Learning|Article|:sparkles:|2024-06-18|2024-06-18|Done|Best article on building with LLMs so far|https://applied-llms.org/|
+|Intro to Large Language Models LLM|Machine Learning|Video||2024-03-22|2024-03-22|To Do||https://www.youtube.com/watch?v=zjkBMFhNj_g|
+|Blog Scraper App|Machine Learning|Project||2023-12-15|2024-02-10|Done|||
+|Langchain Course|Machine Learning|Course||2024-02-15|2024-02-15|Done|Deeplearning.AI Course|https://www.freecodecamp.org/news/learn-langchain-and-gen-ai-by-building-6-projects/|
+|Ten Noteworthy AI Research Papers of 2023|Machine Learning|Article||2024-03-02|2024-03-02|Done||https://magazine.sebastianraschka.com/p/10-ai-research-papers-2023|
+|Agentic RAG Course|Machine Learning|Course||2024-01-15|2024-01-15|Done|Deeplearning.AI Course|https://learn.deeplearning.ai/courses/building-agentic-rag-with-llamaindex/lesson/1/introduction|
+|LLM Patterns|Machine Learning|Article||2024-01-08|2024-01-08|Done||https://eugeneyan.com/writing/llm-patterns/|
 |Leaders Eat Last|Business Strategy and Leadership|Book||2023-11-15|2023-12-13|Done|by Simon Sinek||
 |AI for Product Managers|Product Management|Course||2023-11-15|2023-12-12|Done|Github|https://www.productledcertified.com/ai-for-product-management|
 |Building and Evaluating Advanced RAG Applications|Machine Learning|Course||2023-12-14|2023-12-14|Done||https://learn.deeplearning.ai/building-evaluating-advanced-rag/|
-|Huggingface Course|Machine Learning|Course||2023-11-13||In Progress|Github|https://huggingface.co/course/chapter1|
+|Huggingface Course|Machine Learning|Course||2023-11-13||Done|Github|https://huggingface.co/course/chapter1|
 |Quality and Safety for LLM Applications|Machine Learning|Course||2023-12-04|2023-12-05|Done||https://www.deeplearning.ai/short-courses/quality-safety-llm-applications/|
 |Prompt Engineering|Machine Learning|Article||2023-11-14|2023-11-14|Done|Github|https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/|
 |A Hacker's Guide to Language Models|Machine Learning|Video||2023-11-11|2023-11-12|Done|Comes with Jupyter notebook|https://www.youtube.com/watch?v=jkrNMKz9pWU|
@@ -86,6 +88,9 @@
 ## Won't Do in the Near Future
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
+|Building LLM Powered Apps|Machine Learning|Course||||To Do|Weights and Biases course|https://www.wandb.courses/courses/building-llm-powered-apps|
+|Training and Fine Tuning LLMs|Machine Learning|Course||||To Do|Weights and Biases course|https://www.wandb.courses/courses/training-fine-tuning-LLMs|
+|Management|Business Strategy and Leadership|Book||||To Do||https://www.amazon.com/Management-Rev-Ed-Peter-Drucker/dp/0061252662/|
 |Computer Systems: A Programmer's Perspective|Software Engineering|Book||2023-01-02||On Hold|Part of the Teach Yourself CS Curriculum; Book by Bryant and O'Hallaron|http://csapp.cs.cmu.edu/3e/home.html|
 |The Algorithm Design Manual|Software Engineering|Book||||To Do|Part of the Teach Yourself CS Curriculum|https://smile.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693/|
 |Operating Systems: Three Easy Pieces|Software Engineering|Book||||To Do|Part of the Teach Yourself CS Curriculum|https://pages.cs.wisc.edu/~remzi/OSTEP/|
