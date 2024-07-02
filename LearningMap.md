@@ -38,6 +38,7 @@
 ## Done
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
+|The Phoenix Project|Product Management|Book||2024-06-30|2024-07-01|Done|Finished for the second time||
 |What we've learned from a year of building with LLMs|Machine Learning|Article|:sparkles:|2024-06-18|2024-06-18|Done|Best article on building with LLMs so far|https://applied-llms.org/|
 |Intro to Large Language Models LLM|Machine Learning|Video||2024-03-22|2024-03-22|To Do||https://www.youtube.com/watch?v=zjkBMFhNj_g|
 |Blog Scraper App|Machine Learning|Project||2023-12-15|2024-02-10|Done|||
@@ -102,6 +103,3 @@
 |High Performance Python|Machine Learning|Book||||To Do|||
 |Bayesian Methods for Hackers|Machine Learning|Tutorial||||On Hold|Github||
 |The Art of Data Analysis|Machine Learning|Book||||To Do|Book by Peng and Matsui|https://bookdown.org/rdpeng/artofdatascience/|
-|Bayesian Methods for Hackers|Machine Learning|Tutorial||||On Hold|Github||
-|The Art of Data Analysis|Machine Learning|Book||||To Do|Book by Peng and Matsui|https://bookdown.org/rdpeng/artofdatascience/|
-
