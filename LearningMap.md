@@ -18,6 +18,7 @@
 ## In Progress
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
+|OpenAI Assistants API Course|Machine Learning|Course||2024-07-04||In Progress|Free Code Camp course|https://www.freecodecamp.org/news/create-ai-assistants-with-openais-assistants-api/|
 
 ## To Do - Approximate Priority Order
 ### Reading and Watching
