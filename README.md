@@ -7,6 +7,11 @@ Here's my [resume](Jeremy_Miller_Resume.pdf).
 * Draft and deliver the Vision Statement, Outcomes, and Success Metrics for the Academic AI Platform in coordination with the Strategy & Innovation function at Clarivate.
 * Maintain a validated and prioritized roadmap for the Core Academic AI Platform functionality.
 
+### Public Speaking in Autumn 2024
+* ODSC West: Bitter Lessons Learned While Building Production-quality RAG Systems for Professional Users of Academic Data
+* Internet Librian Connect: Demystifying AI and What it Means for Libraries
+* Clarivate Webinar: Demystifying AI
+
 ## Achievements as Product Manager, Data Science
 
 ### Bring AI Search to Scholarly Research Database

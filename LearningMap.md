@@ -1,5 +1,3 @@
-# Migrated to Study Kanban and Code Kanban in Data Science Vault on 20 Jan 2024
-
 # Learning Map v1
 [Project List](README.md)
 
@@ -18,12 +16,12 @@
 ## In Progress
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
-|OpenAI Assistants API Course|Machine Learning|Course||2024-07-04||In Progress|Free Code Camp course|https://www.freecodecamp.org/news/create-ai-assistants-with-openais-assistants-api/|
 
 ## To Do - Approximate Priority Order
 ### Reading and Watching
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
+|Everything is Predictable|Machine Learning, Product Management|Book||||To Do|Tom Chivers||
 |Working Backwards|Product Management, Business Strategy and Leadership|Book||||To Do||https://www.amazon.com/Working-Backwards-Insights-Stories-Secrets/dp/1250267595|
 |Good Strategy, Bad Strategy|Business Strategy and Leadership|Book||||To Do||https://www.amazon.com/Good-Strategy-Bad-Difference-Matters/dp/0307886239|
 |Good to Great|Business Strategy and Leadership|Book||||To Do||https://www.amazon.com/Good-Great-Some-Companies-Others/dp/0066620996|
@@ -39,6 +37,8 @@
 ## Done
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
+|Building and LLM From the Ground Up: A 3hr Coding Workshop|Machine Learning|Course||2024-09-08|2024-08-08|Done|Sebastian Raschka Course|https://www.youtube.com/watch?v=quh7z1q7-uc|
+|OpenAI Assistants API Course|Machine Learning|Course||2024-07-04|2024-07-06|Done|Free Code Camp course|https://www.freecodecamp.org/news/create-ai-assistants-with-openais-assistants-api/|
 |The Phoenix Project|Product Management|Book||2024-06-30|2024-07-01|Done|Finished for the second time||
 |What we've learned from a year of building with LLMs|Machine Learning|Article|:sparkles:|2024-06-18|2024-06-18|Done|Best article on building with LLMs so far|https://applied-llms.org/|
 |Intro to Large Language Models LLM|Machine Learning|Video||2024-03-22|2024-03-22|To Do||https://www.youtube.com/watch?v=zjkBMFhNj_g|
