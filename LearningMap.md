@@ -38,6 +38,8 @@
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
 |Building and LLM From the Ground Up: A 3hr Coding Workshop|Machine Learning|Course||2024-09-08|2024-08-08|Done|Sebastian Raschka Course|https://www.youtube.com/watch?v=quh7z1q7-uc|
+|Essentialism||Book||2027-08-16|2024-08-26|Done|Essential Intent, the power of pushing in one direction||
+|Indistractable||Book||2027-08-01|2024-08-15|Done|Good ideas for cultivating focus||
 |OpenAI Assistants API Course|Machine Learning|Course||2024-07-04|2024-07-06|Done|Free Code Camp course|https://www.freecodecamp.org/news/create-ai-assistants-with-openais-assistants-api/|
 |The Phoenix Project|Product Management|Book||2024-06-30|2024-07-01|Done|Finished for the second time||
 |What we've learned from a year of building with LLMs|Machine Learning|Article|:sparkles:|2024-06-18|2024-06-18|Done|Best article on building with LLMs so far|https://applied-llms.org/|

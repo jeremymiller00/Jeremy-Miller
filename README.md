@@ -3,7 +3,7 @@ An up-to-date list of data science projects with basic description.
 Here's my [resume](Jeremy_Miller_Resume.pdf).  
 
 ## Achievements as Lead Product Manager, Academic AI Platform
-* Partner with tech leads to deliver to production v1.0 of the Clarivate Academic AI Platform, going from 0-1.
+* Partner with tech leads to deliver to production v1 of the Clarivate Academic AI Platform, going from 0-1.
 * Draft and deliver the Vision Statement, Outcomes, and Success Metrics for the Academic AI Platform in coordination with the Strategy & Innovation function at Clarivate.
 * Maintain a validated and prioritized roadmap for the Core Academic AI Platform functionality.
 
