@@ -16,6 +16,7 @@
 ## In Progress
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
+|AI PM Toolkit and Operating Manual|Product Management|Writing||2024-10-11||In Progress|Processes over tools, core principles, across ml and genai, deep work, 4k weeks, essentialism; live in Data Science Vault|Links|
 
 ## To Do - Approximate Priority Order
 ### Reading and Watching
@@ -30,7 +31,6 @@
 ### Making and Doing
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
-|AI PM Toolkit and Operating Manual|Product Management|Writing||||To Do|Processes over tools, core principles, across ml and genai, deep work, 4k weeks, essentialism|Links|
 |Mastering Github Copilot for Pair Programming|Machine Learning|Course||||To Do|Course on Github|https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming|
 |CrewAI Course|Machine Learning|Course||||||https://learn.deeplearning.ai/courses/multi-ai-agent-systems-with-crewai/lesson/1/introduction|
 |Let's Build GPT|Machine Learning|Video||||To Do|Andrei Karpathy video|https://www.youtube.com/watch?v=kCc8FmEb1nY|
