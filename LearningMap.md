@@ -16,7 +16,8 @@
 ## In Progress
 |Item|Competency|Type|DS Gold|Started|Finished|Status|Notes|Links|
 |-|-|-|-|-|-|-|-|-|
-|AI PM Toolkit and Operating Manual|Product Management|Writing||2024-10-11||In Progress|Processes over tools, core principles, across ml and genai, deep work, 4k weeks, essentialism; live in Data Science Vault|Links|
+|AI PM Toolkit and Operating Manual|Product Management|Writing||2024-10-11||In Progress|Processes over tools, core principles, across ml and genai, deep work, 4k weeks, essentialism; live in Data Science Vault||
+|Free Code Camp Database Course|Machine Learning|Course||2024-10-12||In Progress||https://www.youtube.com/watch?v=pPqazMTzNOM|
 
 ## To Do - Approximate Priority Order
 ### Reading and Watching
