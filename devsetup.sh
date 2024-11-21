@@ -1,5 +1,7 @@
 # based on this guide
 # https://engineeringfordatascience.com/posts/setting_up_a_macbook_for_data_science/
+# another good resource
+# https://eugeneyan.com/writing/mac-setup/
 
 # homebrew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
@@ -99,3 +101,6 @@ brew install --cask visual-studio-code
 
 # other useful things
 brew install tree
+brew install htop
+brew install --cask rectangle
+brew install --cask raycast
