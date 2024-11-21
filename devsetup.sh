@@ -99,6 +99,17 @@ brew install --cask visual-studio-code
 #     "python.formatting.provider": "black",
 # }
 
+
+# serving local llms
+brew install ollama
+ollama serve
+​# in another terminal, pull some models to try
+ollama pull llama3.2 nemotron # 3B and 70B respectively
+
+# llm ui
+pip install open-webui
+open-webui serve
+
 # other useful things
 brew install tree
 brew install htop
