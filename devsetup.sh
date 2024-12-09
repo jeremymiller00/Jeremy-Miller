@@ -21,11 +21,15 @@ brew install git
 git config --global user.name "John Doe"
 git config --global user.email johndoe@example.com
 
+# install uv
+# replaces pip, pipenv, pyenv, etc
+curl -LsSf https://astral.sh/uv/install.sh | sh
+
 # install pyenv and dependancies, configure
-brew install openssl readline sqlite3 xz zlib
-brew install pyenv
-echo 'eval "$(pyenv init --path)"' >> ~/.zprofile
-echo 'eval "$(pyenv init -)"' >> ~/.zshrc
+# brew install openssl readline sqlite3 xz zlib
+# brew install pyenv
+# echo 'eval "$(pyenv init --path)"' >> ~/.zprofile
+# echo 'eval "$(pyenv init -)"' >> ~/.zshrc
 
 ## setup for pyenv
 # list available python versions
