@@ -116,6 +116,6 @@ open-webui serve
 
 # other useful things
 brew install tree
-brew install htop
+brew install btop
 brew install --cask rectangle
 brew install --cask raycast
